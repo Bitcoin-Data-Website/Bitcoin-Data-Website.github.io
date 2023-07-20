@@ -2798,7 +2798,7 @@
 			transition: color 0.2s ease-in-out;
 			display: inline-block;
 			padding: 0 0.75em;
-			color: #f2e30a;
+			color: #1ed90d;
 			text-decoration: none;
 			font-size: 2em;
 			font-weight: bolder;
@@ -3085,7 +3085,7 @@ z-index: 1;
 		#banner h1 {
 			font-size: 5.0em;
 			font-weight: 1000;
-			color: #000;
+			color: #1ed90d;
 			line-height: 1em;
 			margin: 0 0 0 0;
 			padding: 0;
